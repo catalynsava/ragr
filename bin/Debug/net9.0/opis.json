@@ -1,0 +1,149 @@
+{
+  "dcad1b47-3b4d-43f4-d882-0dcda05c449e": {
+    "tip": 1,
+    "volum": 1,
+    "pozitie": 1,
+    "cod": 1,
+    "titular": "Drujbă Toată-Ziua"
+  },
+  "7cb11ab9-8b7d-4d4b-ac9a-31dc68c166e7": {
+    "tip": 1,
+    "volum": 1,
+    "pozitie": 1,
+    "cod": 1,
+    "titular": "Super Mario"
+  },
+  "42143c64-1f5d-45d9-dbf6-a9f68c0ed680": {
+    "tip": 3,
+    "volum": 1,
+    "pozitie": 2,
+    "cod": 1,
+    "titular": "SC ENEL SRL"
+  },
+  "f7eeef8a-6def-44b8-978c-813cb463ff25": {
+    "tip": 1,
+    "volum": 0,
+    "pozitie": 0,
+    "cod": 2,
+    "titular": "Țăranul Șofranul"
+  },
+  "a133db31-fc70-40a3-341c-9201835e5f6c": {
+    "tip": 1,
+    "volum": 0,
+    "pozitie": 0,
+    "cod": 2,
+    "titular": "Cazimir Otilia"
+  },
+  "3982f645-d5c0-4e3b-789b-330360a6050f": {
+    "tip": 1,
+    "volum": 0,
+    "pozitie": 0,
+    "cod": 2,
+    "titular": "Alabala Portocala"
+  },
+  "b73cc9ea-61e6-4c64-1e0a-522701c8ae42": {
+    "tip": 1,
+    "volum": 0,
+    "pozitie": 0,
+    "cod": 2,
+    "titular": "Antena Play"
+  },
+  "ce52227e-d51f-4440-430e-7bf8ab837733": {
+    "tip": 1,
+    "volum": 0,
+    "pozitie": 0,
+    "cod": 2,
+    "titular": "Omul Șobolani"
+  },
+  "ba6490a3-4ca7-4265-79ac-dfa9b4617a00": {
+    "tip": 1,
+    "volum": 0,
+    "pozitie": 0,
+    "cod": 2,
+    "titular": "Grasu XXL"
+  },
+  "24d71610-3f89-4999-e6ae-ddc6dca631a6": {
+    "tip": 1,
+    "volum": 0,
+    "pozitie": 0,
+    "cod": 2,
+    "titular": "Călinescu Florin"
+  },
+  "f76c8f13-f909-4bae-501c-77493236f955": {
+    "tip": 1,
+    "volum": 0,
+    "pozitie": 0,
+    "cod": 2,
+    "titular": "Misisci Pisici"
+  },
+  "88ef6d8a-b1cf-4f62-8f76-b5f1dfc82387": {
+    "tip": 1,
+    "volum": 0,
+    "pozitie": 0,
+    "cod": 2,
+    "titular": "Pici Prichici"
+  },
+  "bb0001b0-e060-470c-e8ad-c15a92b208b0": {
+    "tip": 1,
+    "volum": 1,
+    "pozitie": 3,
+    "cod": 2,
+    "titular": "Ciubota Vasile"
+  },
+  "b9dc8bad-b4eb-4aac-7e5c-46f915d3f8d4": {
+    "tip": 1,
+    "volum": 1,
+    "pozitie": 4,
+    "cod": 2,
+    "titular": "Farcaș Georgiana"
+  },
+  "7b7a86ff-1c3a-4baa-e948-34d5e5033208": {
+    "tip": 1,
+    "volum": 1,
+    "pozitie": 6,
+    "cod": 2,
+    "titular": "Roibu Ana"
+  },
+  "00fca889-4b07-41c5-6151-914f299a55c0": {
+    "tip": 1,
+    "volum": 1,
+    "pozitie": 99,
+    "cod": 2,
+    "titular": "Nimeni Nimic"
+  },
+  "1d4e50aa-9322-4d3e-f41a-2a9a4d945083": {
+    "tip": 1,
+    "volum": 2,
+    "pozitie": 2,
+    "cod": 2,
+    "titular": "Duru Buru"
+  },
+  "c364b787-2b13-4ad0-9ef9-9cb1f3c708b5": {
+    "tip": 2,
+    "volum": 1,
+    "pozitie": 1,
+    "cod": 3,
+    "titular": "Bubă Tudosiei"
+  },
+  "41b377b1-b58f-4193-653c-31cf0c958495": {
+    "tip": 3,
+    "volum": 1,
+    "pozitie": 1,
+    "cod": 3,
+    "titular": "SC PIPA SRL"
+  },
+  "27641219-de64-48b9-484c-914c8e12956b": {
+    "tip": 1,
+    "volum": 1,
+    "pozitie": 5,
+    "cod": 4,
+    "titular": "Garoafă Constantin"
+  },
+  "cf85c64e-014e-4ac9-8818-ae154be8dd8c": {
+    "tip": 3,
+    "volum": 1,
+    "pozitie": 100,
+    "cod": 5,
+    "titular": "SC AZOCHIM SRL"
+  }
+}

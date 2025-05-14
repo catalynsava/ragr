@@ -1,0 +1,37 @@
+[
+  {
+    "cod": 1,
+    "descriere": "Arbuști fructiferi - total",
+    "formula": "(02+03)",
+    "codParinte": 0,
+    "semn": ""
+  },
+  {
+    "cod": 2,
+    "descriere": " Arbuști fructiferi pe rod",
+    "formula": "",
+    "codParinte": 1,
+    "semn": "+"
+  },
+  {
+    "cod": 3,
+    "descriere": " Arbuști fructiferi tineri",
+    "formula": "",
+    "codParinte": 1,
+    "semn": "+"
+  },
+  {
+    "cod": 4,
+    "descriere": "Plantații de duzi în masiv",
+    "formula": "",
+    "codParinte": 0,
+    "semn": ""
+  },
+  {
+    "cod": 5,
+    "descriere": "Alte plantații pomicole aflate în teren agricol",
+    "formula": "",
+    "codParinte": 0,
+    "semn": ""
+  }
+]

@@ -1,0 +1,87 @@
+[
+  {
+    "cod": 1,
+    "abreviere": "a",
+    "descriere": "locuință"
+  },
+  {
+    "cod": 2,
+    "abreviere": "b",
+    "descriere": "locuință convenabilă"
+  },
+  {
+    "cod": 3,
+    "abreviere": "c",
+    "descriere": "locuință socială"
+  },
+  {
+    "cod": 4,
+    "abreviere": "d",
+    "descriere": "locuință de serviciu"
+  },
+  {
+    "cod": 5,
+    "abreviere": "e",
+    "descriere": "locuință de intervenție"
+  },
+  {
+    "cod": 6,
+    "abreviere": "f",
+    "descriere": "locuință de necesitate"
+  },
+  {
+    "cod": 7,
+    "abreviere": "g",
+    "descriere": "locuință de protocol"
+  },
+  {
+    "cod": 8,
+    "abreviere": "h",
+    "descriere": "casă de vacanță"
+  },
+  {
+    "cod": 9,
+    "abreviere": "i",
+    "descriere": "grajd"
+  },
+  {
+    "cod": 10,
+    "abreviere": "j",
+    "descriere": "pătul"
+  },
+  {
+    "cod": 11,
+    "abreviere": "k",
+    "descriere": "magazie/hambar pentru cereale"
+  },
+  {
+    "cod": 12,
+    "abreviere": "l",
+    "descriere": "șură/fânărie"
+  },
+  {
+    "cod": 13,
+    "abreviere": "m",
+    "descriere": "remiză/șopron"
+  },
+  {
+    "cod": 14,
+    "abreviere": "n",
+    "descriere": "garaj"
+  },
+  {
+    "cod": 15,
+    "abreviere": "o",
+    "descriere": "clădire socială, de învățământ, de sănătate, de cultură, de administrație"
+  },
+  {
+    "cod": 16,
+    "abreviere": "p",
+    "descriere": "clădire industrială/socioeconomică"
+  },
+  {
+    "cod": 17,
+    "abreviere": "q",
+    "descriere": "alte clădiri, neprevăzute la lit. a-p"
+  }
+]

@@ -1,0 +1,132 @@
+[
+  {
+    "cod": 1,
+    "denumire": "CAPITOLUL 1",
+    "descriere": "Componența gospodăriei/exploatației agricole fără personalitate juridică"
+  },
+  {
+    "cod": 2,
+    "denumire": "CAPITOLUL 2a",
+    "descriere": "Terenuri aflate în proprietate"
+  },
+  {
+    "cod": 3,
+    "denumire": "CAPITOLUL 2b",
+    "descriere": "Identificarea pe parcele a terenurilor aflate în proprietate"
+  },
+  {
+    "cod": 4,
+    "denumire": "CAPITOLUL 3",
+    "descriere": "Modul de utilizare a suprafețelor agricole situate pe raza localității"
+  },
+  {
+    "cod": 5,
+    "denumire": "CAPITOLUL 4a",
+    "descriere": "Suprafața arabilă situată pe raza localității - culturi în câmp"
+  },
+  {
+    "cod": 6,
+    "denumire": "CAPITOLUL 4a1",
+    "descriere": "Culturi succesive în câmp, culturi intercalate, culturi modificate genetic pe raza localității"
+  },
+  {
+    "cod": 7,
+    "denumire": "CAPITOLUL 4b1",
+    "descriere": "Suprafața cultivată în sere raza localității"
+  },
+  {
+    "cod": 8,
+    "denumire": "CAPITOLUL 4b2",
+    "descriere": "Suprafața cultivată în solarii și alte spații protejate*1) pe raza localității"
+  },
+  {
+    "cod": 9,
+    "denumire": "CAPITOLUL 4c",
+    "descriere": "Suprafața cultivată cu legume și cartofi în grădinile familiale pe raza localității"
+  },
+  {
+    "cod": 10,
+    "denumire": "CAPITOLUL 5a",
+    "descriere": "Numărul pomilor răzleți pe raza localității"
+  },
+  {
+    "cod": 11,
+    "denumire": "CAPITOLUL 5b",
+    "descriere": "Suprafața plantațiilor pomicole și numărul pomilor pe raza localității"
+  },
+  {
+    "cod": 12,
+    "denumire": "CAPITOLUL 5c",
+    "descriere": "Alte plantații pomicole aflate în teren agricol, pe raza localității"
+  },
+  {
+    "cod": 13,
+    "denumire": "CAPITOLUL 5d",
+    "descriere": "Vii, pepiniere viticole și hameiști situate pe raza localității"
+  },
+  {
+    "cod": 14,
+    "denumire": "CAPITOLUL 6",
+    "descriere": "Suprafețele efectiv irigate*1) în câmp, situate pe raza localității"
+  },
+  {
+    "cod": 15,
+    "denumire": "CAPITOLUL 7",
+    "descriere": "Animale domestice și/sau animale sălbatice crescute în captivitate, în condițiile legii - Situația la începutul semestrului*)"
+  },
+  {
+    "cod": 16,
+    "denumire": "CAPITOLUL 8",
+    "descriere": "Evoluția efectivelor de animale, în cursul anului, aflate în proprietate*)"
+  },
+  {
+    "cod": 17,
+    "denumire": "CAPITOLUL 9",
+    "descriere": "Utilaje, instalații pentru agricultură, mijloace de transport cu tracțiune animală și mecanică existente la începutul anului"
+  },
+  {
+    "cod": 18,
+    "denumire": "CAPITOLUL 10a",
+    "descriere": "Aplicarea îngrășămintelor, amendamentelor și pesticidelor pe suprafețe situate pe raza localității"
+  },
+  {
+    "cod": 19,
+    "denumire": "CAPITOLUL 10b",
+    "descriere": "Utilizarea îngrășămintelor chimice (în echivalent substanță activă) la principalele culturi"
+  },
+  {
+    "cod": 20,
+    "denumire": "CAPITOLUL 11",
+    "descriere": "Clădiri existente la începutul anului pe raza localității"
+  },
+  {
+    "cod": 21,
+    "denumire": "CAPITOLUL 12",
+    "descriere": "Atestatele de producător și carnetele de comercializare eliberate/vizate"
+  },
+  {
+    "cod": 22,
+    "denumire": "CAPITOLUL 13",
+    "descriere": "Mențiuni cu privire la sesizările/cererile pentru deschiderea procedurilor succesorale înaintate notarilor publici"
+  },
+  {
+    "cod": 23,
+    "denumire": "CAPITOLUL 14",
+    "descriere": "Înregistrări privind exercitarea dreptului de preemțiune"
+  },
+  {
+    "cod": 24,
+    "denumire": "CAPITOLUL 15a",
+    "descriere": "Înregistrări privind contractele de arendare"
+  },
+  {
+    "cod": 25,
+    "denumire": "CAPITOLUL 15b",
+    "descriere": "Înregistrări privind contractele de concesiune"
+  },
+  {
+    "cod": 26,
+    "denumire": "CAPITOLUL 16",
+    "descriere": "Mențiuni speciale"
+  }
+]

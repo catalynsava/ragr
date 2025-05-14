@@ -1,0 +1,142 @@
+[
+  {
+    "cod": 1,
+    "descriere": "Teren arabil (inclusiv sere și solarii)",
+    "formula": "",
+    "codParinte": 10,
+    "semn": "+"
+  },
+  {
+    "cod": 2,
+    "descriere": "Pășuni naturale",
+    "formula": "",
+    "codParinte": 10,
+    "semn": "+"
+  },
+  {
+    "cod": 3,
+    "descriere": "Fânețe naturale",
+    "formula": "",
+    "codParinte": 10,
+    "semn": "+"
+  },
+  {
+    "cod": 4,
+    "descriere": "Vii, pepiniere viticole și hameiști",
+    "formula": "",
+    "codParinte": 10,
+    "semn": "+"
+  },
+  {
+    "cod": 5,
+    "descriere": "din care: - vii pe rod",
+    "formula": "",
+    "codParinte": 0,
+    "semn": ""
+  },
+  {
+    "cod": 6,
+    "descriere": "- hameiști (total)",
+    "formula": "",
+    "codParinte": 0,
+    "semn": ""
+  },
+  {
+    "cod": 7,
+    "descriere": "Livezi de pomi, pepiniere pomicole, arbuști fructiferi",
+    "formula": "",
+    "codParinte": 10,
+    "semn": "+"
+  },
+  {
+    "cod": 8,
+    "descriere": "din care: - livezi pe rod",
+    "formula": "",
+    "codParinte": 0,
+    "semn": ""
+  },
+  {
+    "cod": 9,
+    "descriere": "Grădini familiale",
+    "formula": "",
+    "codParinte": 10,
+    "semn": "+"
+  },
+  {
+    "cod": 10,
+    "descriere": "Teren agricol - total",
+    "formula": "(01+02+03+04+07+09)",
+    "codParinte": 18,
+    "semn": "+"
+  },
+  {
+    "cod": 11,
+    "descriere": "Păduri și alte terenuri cu vegetație forestieră",
+    "formula": "",
+    "codParinte": 17,
+    "semn": "+"
+  },
+  {
+    "cod": 12,
+    "descriere": "din care: păduri",
+    "formula": "",
+    "codParinte": 0,
+    "semn": ""
+  },
+  {
+    "cod": 13,
+    "descriere": "Drumuri și căi ferate",
+    "formula": "",
+    "codParinte": 17,
+    "semn": "+"
+  },
+  {
+    "cod": 14,
+    "descriere": "Construcții",
+    "formula": "",
+    "codParinte": 17,
+    "semn": "+"
+  },
+  {
+    "cod": 15,
+    "descriere": "Terenuri degradate și neproductive",
+    "formula": "",
+    "codParinte": 17,
+    "semn": "+"
+  },
+  {
+    "cod": 16,
+    "descriere": "Ape și bălți",
+    "formula": "",
+    "codParinte": 17,
+    "semn": "+"
+  },
+  {
+    "cod": 17,
+    "descriere": "terenuri piscicole utilizate în scop piscicol",
+    "formula": "",
+    "codParinte": 0,
+    "semn": ""
+  },
+  {
+    "cod": 18,
+    "descriere": "terenuri piscicole utilizate în scop agricol",
+    "formula": "",
+    "codParinte": 0,
+    "semn": ""
+  },
+  {
+    "cod": 19,
+    "descriere": "Teren neagricol total ",
+    "formula": "(11+13+14+15+16)",
+    "codParinte": 18,
+    "semn": "+"
+  },
+  {
+    "cod": 20,
+    "descriere": "Suprafața totală ",
+    "formula": "(10+19)",
+    "codParinte": 0,
+    "semn": ""
+  }
+]

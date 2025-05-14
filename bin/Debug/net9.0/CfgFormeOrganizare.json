@@ -1,0 +1,42 @@
+[
+  {
+    "cod": 1,
+    "abreviere": "SA",
+    "descriere": "Societate pe acțiuni"
+  },
+  {
+    "cod": 2,
+    "abreviere": "SRL",
+    "descriere": "Societate cu răspundere limitată"
+  },
+  {
+    "cod": 3,
+    "abreviere": "SNC",
+    "descriere": "Societate în nume colectiv"
+  },
+  {
+    "cod": 4,
+    "abreviere": "SCA",
+    "descriere": "Societate în comandită pe acțiuni"
+  },
+  {
+    "cod": 5,
+    "abreviere": "SCS",
+    "descriere": "Societate în comandită simplă"
+  },
+  {
+    "cod": 6,
+    "abreviere": "IF",
+    "descriere": "Întreprindere familială"
+  },
+  {
+    "cod": 7,
+    "abreviere": "II",
+    "descriere": "Întreprindere individuală"
+  },
+  {
+    "cod": 8,
+    "abreviere": "PFA",
+    "descriere": "Persoană fizică autorizată"
+  }
+]

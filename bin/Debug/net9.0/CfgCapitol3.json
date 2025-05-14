@@ -1,0 +1,121 @@
+[
+  {
+    "cod": 1,
+    "descriere": "Suprafața agricolă în proprietate",
+    "formula": "",
+    "codParinte": 17,
+    "semn": "+"
+  },
+  {
+    "cod": 2,
+    "descriere": "Suprafața agricolă primită",
+    "formula": "(03+ ... +08)",
+    "codParinte": 17,
+    "semn": "+"
+  },
+  {
+    "cod": 3,
+    "descriere": "a) în arendă",
+    "formula": "",
+    "codParinte": 2,
+    "semn": "+"
+  },
+  {
+    "cod": 4,
+    "descriere": "b) în parte",
+    "formula": "",
+    "codParinte": 2,
+    "semn": "+"
+  },
+  {
+    "cod": 5,
+    "descriere": "c) cu titlu gratuit",
+    "formula": "",
+    "codParinte": 2,
+    "semn": "+"
+  },
+  {
+    "cod": 6,
+    "descriere": "d) în concesiune",
+    "formula": "",
+    "codParinte": 2,
+    "semn": "+"
+  },
+  {
+    "cod": 7,
+    "descriere": "e) în asociere",
+    "formula": "",
+    "codParinte": 2,
+    "semn": "+"
+  },
+  {
+    "cod": 8,
+    "descriere": "f) sub alte forme",
+    "formula": "",
+    "codParinte": 2,
+    "semn": "+"
+  },
+  {
+    "cod": 9,
+    "descriere": "Suprafața agricolă dată",
+    "formula": "(10+... + 15)",
+    "codParinte": 17,
+    "semn": "-"
+  },
+  {
+    "cod": 10,
+    "descriere": "a) în arendă",
+    "formula": "",
+    "codParinte": 9,
+    "semn": "+"
+  },
+  {
+    "cod": 11,
+    "descriere": "b) în parte",
+    "formula": "",
+    "codParinte": 9,
+    "semn": "+"
+  },
+  {
+    "cod": 12,
+    "descriere": "c) cu titlu gratuit",
+    "formula": "",
+    "codParinte": 9,
+    "semn": "+"
+  },
+  {
+    "cod": 13,
+    "descriere": "d) în concesiune",
+    "formula": "",
+    "codParinte": 9,
+    "semn": "+"
+  },
+  {
+    "cod": 14,
+    "descriere": "e) în asociere",
+    "formula": "",
+    "codParinte": 9,
+    "semn": "+"
+  },
+  {
+    "cod": 15,
+    "descriere": "f) sub alte forme",
+    "formula": "",
+    "codParinte": 9,
+    "semn": "+"
+  },
+  {
+    "cod": 16,
+    "descriere": "dată la unităţi cu personalitate juridică",
+    "formula": "",
+    "codParinte": 0,
+    "semn": ""
+  },
+  {
+    "cod": 17,
+    "descriere": "Suprafaţa agricolă utilizată",
+    "formula": "(01+02-09)",
+    "codParinte": 0,
+    "semn": ""
+  }
+]

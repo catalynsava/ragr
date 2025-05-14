@@ -1,0 +1,27 @@
+[
+  {
+    "cod": 1,
+    "abreviere": null,
+    "descriere": "cap de gospodărie"
+  },
+  {
+    "cod": 2,
+    "abreviere": null,
+    "descriere": "soț/soție"
+  },
+  {
+    "cod": 3,
+    "abreviere": null,
+    "descriere": "fiu/fiică"
+  },
+  {
+    "cod": 4,
+    "abreviere": null,
+    "descriere": "alte rude"
+  },
+  {
+    "cod": 5,
+    "abreviere": null,
+    "descriere": "neînrudit"
+  }
+]

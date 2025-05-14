@@ -1,0 +1,100 @@
+[
+  {
+    "cod": 1,
+    "descriere": "Pomi fructiferi - total",
+    "formula": "(02+03+....+13)",
+    "codParinte": 0,
+    "semn": ""
+  },
+  {
+    "cod": 2,
+    "descriere": "Meri",
+    "formula": "",
+    "codParinte": 1,
+    "semn": "+"
+  },
+  {
+    "cod": 3,
+    "descriere": "Peri",
+    "formula": "",
+    "codParinte": 1,
+    "semn": "+"
+  },
+  {
+    "cod": 4,
+    "descriere": "Piersici",
+    "formula": "",
+    "codParinte": 1,
+    "semn": "+"
+  },
+  {
+    "cod": 5,
+    "descriere": "Caiși și zarzări",
+    "formula": "",
+    "codParinte": 1,
+    "semn": "+"
+  },
+  {
+    "cod": 6,
+    "descriere": "Cireși",
+    "formula": "",
+    "codParinte": 1,
+    "semn": "+"
+  },
+  {
+    "cod": 7,
+    "descriere": "Vișini",
+    "formula": "",
+    "codParinte": 1,
+    "semn": "+"
+  },
+  {
+    "cod": 8,
+    "descriere": "Pruni",
+    "formula": "",
+    "codParinte": 1,
+    "semn": "+"
+  },
+  {
+    "cod": 9,
+    "descriere": "ectarini",
+    "formula": "",
+    "codParinte": 1,
+    "semn": "+"
+  },
+  {
+    "cod": 10,
+    "descriere": "Nuci",
+    "formula": "",
+    "codParinte": 1,
+    "semn": "+"
+  },
+  {
+    "cod": 11,
+    "descriere": "Aluni",
+    "formula": "",
+    "codParinte": 1,
+    "semn": "+"
+  },
+  {
+    "cod": 12,
+    "descriere": "Castani",
+    "formula": "",
+    "codParinte": 1,
+    "semn": "+"
+  },
+  {
+    "cod": 13,
+    "descriere": "Alți pomi (gutui, migdali, etc.)",
+    "formula": "",
+    "codParinte": 1,
+    "semn": "+"
+  },
+  {
+    "cod": 14,
+    "descriere": "Duzi",
+    "formula": "",
+    "codParinte": 0,
+    "semn": ""
+  }
+]

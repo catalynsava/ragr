@@ -1,0 +1,42 @@
+[
+  {
+    "cod": 1,
+    "abreviere": "CM  ",
+    "descriere": "Moștenire"
+  },
+  {
+    "cod": 2,
+    "abreviere": "CF  ",
+    "descriere": "Folosință"
+  },
+  {
+    "cod": 3,
+    "abreviere": "CA  ",
+    "descriere": "Arendă"
+  },
+  {
+    "cod": 4,
+    "abreviere": "CI  ",
+    "descriere": "Întreținere"
+  },
+  {
+    "cod": 5,
+    "abreviere": "CP  ",
+    "descriere": "Proprietate"
+  },
+  {
+    "cod": 6,
+    "abreviere": "CD  ",
+    "descriere": "Donație"
+  },
+  {
+    "cod": 7,
+    "abreviere": "CC  ",
+    "descriere": "Concesiune"
+  },
+  {
+    "cod": 8,
+    "abreviere": "CADM",
+    "descriere": "Administrare"
+  }
+]

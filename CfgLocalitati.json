@@ -1,0 +1,38 @@
+[
+  {
+    "cod": 1,
+    "localitate": "BORCA",
+    "cod_siruta": "121661",
+    "cod_postal": "617075"
+  },
+  {
+    "cod": 2,
+    "localitate": "LUNCA",
+    "cod_siruta": "121670",
+    "cod_postal": "617076"
+  },
+  {
+    "cod": 3,
+    "localitate": "MĂDEI",
+    "cod_siruta": "121689",
+    "cod_postal": "617077"
+  },
+  {
+    "cod": 4,
+    "localitate": "PÂRÂUL CÂRJEI",
+    "cod_siruta": "121698",
+    "cod_postal": "617078"
+  },
+  {
+    "cod": 5,
+    "localitate": "PÂRÂIUL PÂNTEI",
+    "cod_siruta": "121705",
+    "cod_postal": "617079"
+  },
+  {
+    "cod": 6,
+    "localitate": "SABASA",
+    "cod_siruta": "121714",
+    "cod_postal": "617081"
+  }
+]

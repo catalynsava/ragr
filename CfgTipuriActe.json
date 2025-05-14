@@ -1,0 +1,112 @@
+[
+  {
+    "cod": 1,
+    "abreviere": "TP  ",
+    "descriere": "Titlu de proprietate"
+  },
+  {
+    "cod": 2,
+    "abreviere": "CP  ",
+    "descriere": "Contract de vânzare-cumpărare"
+  },
+  {
+    "cod": 3,
+    "abreviere": "CM  ",
+    "descriere": "Contract de moştenire"
+  },
+  {
+    "cod": 4,
+    "abreviere": "CMO ",
+    "descriere": "Certificat de moştenitor"
+  },
+  {
+    "cod": 5,
+    "abreviere": "CS  ",
+    "descriere": "Contract de schimb"
+  },
+  {
+    "cod": 6,
+    "abreviere": "CD  ",
+    "descriere": "Contract de donaţie"
+  },
+  {
+    "cod": 7,
+    "abreviere": "CC  ",
+    "descriere": "Contract de concesiune"
+  },
+  {
+    "cod": 8,
+    "abreviere": "CA  ",
+    "descriere": "Contract de arendă"
+  },
+  {
+    "cod": 9,
+    "abreviere": "CAD ",
+    "descriere": "Contract de administrare"
+  },
+  {
+    "cod": 10,
+    "abreviere": "CF  ",
+    "descriere": "Contract de folosinţă"
+  },
+  {
+    "cod": 11,
+    "abreviere": "CI  ",
+    "descriere": "Contract de Întreținere"
+  },
+  {
+    "cod": 12,
+    "abreviere": "HJ  ",
+    "descriere": "Hotarare judecatoreasca"
+  },
+  {
+    "cod": 13,
+    "abreviere": "AAC ",
+    "descriere": "Act de alipire/comasare"
+  },
+  {
+    "cod": 14,
+    "abreviere": "AC  ",
+    "descriere": "Aviz consultativ"
+  },
+  {
+    "cod": 15,
+    "abreviere": "ADD ",
+    "descriere": "Act de dezlipire/dezmembrare"
+  },
+  {
+    "cod": 16,
+    "abreviere": "ALT ",
+    "descriere": "Altele (act de adjudecare, decizie de expropriere, etc.)"
+  },
+  {
+    "cod": 17,
+    "abreviere": "AMD ",
+    "descriere": "Aviz MADR / DADR"
+  },
+  {
+    "cod": 18,
+    "abreviere": "APV ",
+    "descriere": "Act de partaj voluntar"
+  },
+  {
+    "cod": 19,
+    "abreviere": "AV  ",
+    "descriere": "Adeverinta vanzare"
+  },
+  {
+    "cod": 20,
+    "abreviere": "DP  ",
+    "descriere": "Dispoziţia primarului"
+  },
+  {
+    "cod": 21,
+    "abreviere": "DPR ",
+    "descriere": "Declaraţie pe proprie răspundere"
+  },
+  {
+    "cod": 22,
+    "abreviere": "OP  ",
+    "descriere": "Ordinul prefectului"
+  }
+]

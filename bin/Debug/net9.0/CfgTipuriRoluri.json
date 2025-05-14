@@ -1,0 +1,18 @@
+[
+  {
+    "cod": 1,
+    "descriere": "persoane fizice localnice"
+  },
+  {
+    "cod": 2,
+    "descriere": "persoane fizice străinași"
+  },
+  {
+    "cod": 3,
+    "descriere": "persoane juridice localnice"
+  },
+  {
+    "cod": 4,
+    "descriere": "persoane juridice străinași"
+  }
+]

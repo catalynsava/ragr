@@ -1,0 +1,46 @@
+[
+  {
+    "cod": 1,
+    "descriere": "Gospodărie / Exploatație agricolă individuală"
+  },
+  {
+    "cod": 2,
+    "descriere": "Persoană fizică autorizată / Întreprindere individuală / Întreprindere familială"
+  },
+  {
+    "cod": 3,
+    "descriere": "Regie autonomă"
+  },
+  {
+    "cod": 4,
+    "descriere": "Societate /asociație agricolă (Legea nr. 36/1991)"
+  },
+  {
+    "cod": 5,
+    "descriere": "Societate comercială cu capital majoritar privat (Legea nr. 31/1990)"
+  },
+  {
+    "cod": 6,
+    "descriere": "Societate comercială cu capital majoritar de stat (Legea nr. 31/1990)"
+  },
+  {
+    "cod": 7,
+    "descriere": "Institut / stațiune de cercetare"
+  },
+  {
+    "cod": 8,
+    "descriere": "Unitate / subdiviziune administrativ teritorială"
+  },
+  {
+    "cod": 9,
+    "descriere": "Alte instituții publice centrale sau locale"
+  },
+  {
+    "cod": 10,
+    "descriere": "Unitate cooperatistă"
+  },
+  {
+    "cod": 11,
+    "descriere": "Alte tipuri (asociație, fundație, așezământ religios, școală etc.)"
+  }
+]

@@ -1,0 +1,191 @@
+[
+  {
+    "cod": 1,
+    "descriere": "Pomi fructiferi",
+    "formula": "(02+08+13+......+22+25+26)",
+    "codParinte": 1,
+    "semn": "+"
+  },
+  {
+    "cod": 2,
+    "descriere": "Meri",
+    "formula": "(03+...+07)",
+    "codParinte": 1,
+    "semn": "+"
+  },
+  {
+    "cod": 3,
+    "descriere": "Jonathan",
+    "formula": "",
+    "codParinte": 2,
+    "semn": "+"
+  },
+  {
+    "cod": 4,
+    "descriere": "Golden Delicios",
+    "formula": "",
+    "codParinte": 2,
+    "semn": "+"
+  },
+  {
+    "cod": 5,
+    "descriere": "Idared",
+    "formula": "",
+    "codParinte": 2,
+    "semn": "+"
+  },
+  {
+    "cod": 6,
+    "descriere": "Starkrimson",
+    "formula": "",
+    "codParinte": 2,
+    "semn": "+"
+  },
+  {
+    "cod": 7,
+    "descriere": "Alte soiuri",
+    "formula": "",
+    "codParinte": 2,
+    "semn": "+"
+  },
+  {
+    "cod": 8,
+    "descriere": "Peri",
+    "formula": "(09+...+12)",
+    "codParinte": 1,
+    "semn": "+"
+  },
+  {
+    "cod": 9,
+    "descriere": "Cure",
+    "formula": "",
+    "codParinte": 8,
+    "semn": "+"
+  },
+  {
+    "cod": 10,
+    "descriere": "Favorita lui Clapp",
+    "formula": "",
+    "codParinte": 8,
+    "semn": "+"
+  },
+  {
+    "cod": 11,
+    "descriere": "Williams",
+    "formula": "",
+    "codParinte": 8,
+    "semn": "+"
+  },
+  {
+    "cod": 12,
+    "descriere": "Alte soiuri",
+    "formula": "",
+    "codParinte": 8,
+    "semn": "+"
+  },
+  {
+    "cod": 13,
+    "descriere": "Piersici",
+    "formula": "",
+    "codParinte": 1,
+    "semn": "+"
+  },
+  {
+    "cod": 14,
+    "descriere": "Caişi şi zarzări",
+    "formula": "",
+    "codParinte": 1,
+    "semn": "+"
+  },
+  {
+    "cod": 15,
+    "descriere": "Cireşi",
+    "formula": "",
+    "codParinte": 1,
+    "semn": "+"
+  },
+  {
+    "cod": 16,
+    "descriere": "Vişini",
+    "formula": "",
+    "codParinte": 1,
+    "semn": "+"
+  },
+  {
+    "cod": 17,
+    "descriere": "Pruni",
+    "formula": "",
+    "codParinte": 1,
+    "semn": "+"
+  },
+  {
+    "cod": 18,
+    "descriere": "Nectarini",
+    "formula": "",
+    "codParinte": 1,
+    "semn": "+"
+  },
+  {
+    "cod": 19,
+    "descriere": "Nuci",
+    "formula": "",
+    "codParinte": 1,
+    "semn": "+"
+  },
+  {
+    "cod": 20,
+    "descriere": "Aluni",
+    "formula": "",
+    "codParinte": 1,
+    "semn": "+"
+  },
+  {
+    "cod": 21,
+    "descriere": "Castani",
+    "formula": "",
+    "codParinte": 1,
+    "semn": "+"
+  },
+  {
+    "cod": 22,
+    "descriere": "Alţi pomi (gutui, migdali, etc)",
+    "formula": "",
+    "codParinte": 1,
+    "semn": "+"
+  },
+  {
+    "cod": 23,
+    "descriere": "Pepiniere pomicole",
+    "formula": "",
+    "codParinte": 0,
+    "semn": ""
+  },
+  {
+    "cod": 24,
+    "descriere": "Suprafeţe defrişate",
+    "formula": "",
+    "codParinte": 0,
+    "semn": ""
+  },
+  {
+    "cod": 25,
+    "descriere": "Livezi tinere",
+    "formula": "",
+    "codParinte": 1,
+    "semn": "+"
+  },
+  {
+    "cod": 26,
+    "descriere": "Livezi în declin",
+    "formula": "",
+    "codParinte": 1,
+    "semn": "+"
+  },
+  {
+    "cod": 27,
+    "descriere": "Teren în pregătire",
+    "formula": "",
+    "codParinte": 0,
+    "semn": ""
+  }
+]

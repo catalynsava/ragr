@@ -1,0 +1,1269 @@
+[
+  {
+    "cod": 1,
+    "descriere": "Cereale pentru boabe - total (exclusiv sămânța)",
+    "formula": "(02+...+19)",
+    "codParinte": 177,
+    "semn": "+"
+  },
+  {
+    "cod": 2,
+    "descriere": "Grâu comun de toamnă",
+    "formula": "",
+    "codParinte": 2,
+    "semn": "+"
+  },
+  {
+    "cod": 3,
+    "descriere": "Grâu comun de primăvară",
+    "formula": "",
+    "codParinte": 2,
+    "semn": "+"
+  },
+  {
+    "cod": 4,
+    "descriere": "Grâu dur de toamnă",
+    "formula": "",
+    "codParinte": 2,
+    "semn": "+"
+  },
+  {
+    "cod": 5,
+    "descriere": "Grâu dur de primăvară",
+    "formula": "",
+    "codParinte": 2,
+    "semn": "+"
+  },
+  {
+    "cod": 6,
+    "descriere": "Secară de toamnă",
+    "formula": "",
+    "codParinte": 2,
+    "semn": "+"
+  },
+  {
+    "cod": 7,
+    "descriere": "Secară de primăvară",
+    "formula": "",
+    "codParinte": 2,
+    "semn": "+"
+  },
+  {
+    "cod": 8,
+    "descriere": "Orz",
+    "formula": "",
+    "codParinte": 2,
+    "semn": "+"
+  },
+  {
+    "cod": 9,
+    "descriere": "Orzoaică de toamnă",
+    "formula": "",
+    "codParinte": 2,
+    "semn": "+"
+  },
+  {
+    "cod": 10,
+    "descriere": "Orzoaică de primăvară",
+    "formula": "",
+    "codParinte": 2,
+    "semn": "+"
+  },
+  {
+    "cod": 11,
+    "descriere": "Ovăz",
+    "formula": "",
+    "codParinte": 2,
+    "semn": "+"
+  },
+  {
+    "cod": 12,
+    "descriere": "Porumb boabe",
+    "formula": "",
+    "codParinte": 2,
+    "semn": "+"
+  },
+  {
+    "cod": 13,
+    "descriere": "Sorg pentru boabe",
+    "formula": "",
+    "codParinte": 2,
+    "semn": "+"
+  },
+  {
+    "cod": 14,
+    "descriere": "Triticale de toamnă",
+    "formula": "",
+    "codParinte": 2,
+    "semn": "+"
+  },
+  {
+    "cod": 15,
+    "descriere": "Triticale de primăvară",
+    "formula": "",
+    "codParinte": 2,
+    "semn": "+"
+  },
+  {
+    "cod": 16,
+    "descriere": "Orez",
+    "formula": "",
+    "codParinte": 2,
+    "semn": "+"
+  },
+  {
+    "cod": 17,
+    "descriere": "Mei",
+    "formula": "",
+    "codParinte": 2,
+    "semn": "+"
+  },
+  {
+    "cod": 18,
+    "descriere": "Hrișcă",
+    "formula": "",
+    "codParinte": 2,
+    "semn": "+"
+  },
+  {
+    "cod": 19,
+    "descriere": "Alte cereale",
+    "formula": "",
+    "codParinte": 2,
+    "semn": "+"
+  },
+  {
+    "cod": 20,
+    "descriere": "Leguminoase boabe - total (exclusiv sămânța) cod (21+..+26)",
+    "formula": "(21+..+26)",
+    "codParinte": 177,
+    "semn": "+"
+  },
+  {
+    "cod": 21,
+    "descriere": "Mazăre boabe",
+    "formula": "",
+    "codParinte": 20,
+    "semn": "+"
+  },
+  {
+    "cod": 22,
+    "descriere": "Fasole boabe",
+    "formula": "",
+    "codParinte": 20,
+    "semn": "+"
+  },
+  {
+    "cod": 23,
+    "descriere": "Linte",
+    "formula": "",
+    "codParinte": 20,
+    "semn": "+"
+  },
+  {
+    "cod": 24,
+    "descriere": "Bob",
+    "formula": "",
+    "codParinte": 20,
+    "semn": "+"
+  },
+  {
+    "cod": 25,
+    "descriere": "Lupin",
+    "formula": "",
+    "codParinte": 20,
+    "semn": "+"
+  },
+  {
+    "cod": 26,
+    "descriere": "Alte leguminoase boabe (năut, măzăriche etc.)",
+    "formula": "",
+    "codParinte": 20,
+    "semn": "+"
+  },
+  {
+    "cod": 27,
+    "descriere": "Rădăcinoase - total",
+    "formula": "(28+29+30)",
+    "codParinte": 177,
+    "semn": "+"
+  },
+  {
+    "cod": 28,
+    "descriere": "Sfeclă de zahăr (exclusiv sămânță)",
+    "formula": "",
+    "codParinte": 27,
+    "semn": "+"
+  },
+  {
+    "cod": 29,
+    "descriere": "Sfeclă furajeră (exclusiv sămânță)",
+    "formula": "",
+    "codParinte": 27,
+    "semn": "+"
+  },
+  {
+    "cod": 30,
+    "descriere": "Alte rădăcinoase furajere (morcovi furajeri, napi, etc.) (exclusiv sămânță)",
+    "formula": "",
+    "codParinte": 27,
+    "semn": "+"
+  },
+  {
+    "cod": 31,
+    "descriere": "Cartofi - total (inclusiv sămânță)",
+    "formula": "(32+33+34)",
+    "codParinte": 177,
+    "semn": "+"
+  },
+  {
+    "cod": 32,
+    "descriere": " a) timpurii și semi-timpurii",
+    "formula": "",
+    "codParinte": 31,
+    "semn": "+"
+  },
+  {
+    "cod": 33,
+    "descriere": " b) de vară",
+    "formula": "",
+    "codParinte": 31,
+    "semn": "+"
+  },
+  {
+    "cod": 34,
+    "descriere": " c) de toamnă",
+    "formula": "",
+    "codParinte": 31,
+    "semn": "+"
+  },
+  {
+    "cod": 35,
+    "descriere": "Plante textile - total (exclusiv sămânța)",
+    "formula": "(36+37)",
+    "codParinte": 177,
+    "semn": "+"
+  },
+  {
+    "cod": 36,
+    "descriere": "In pentru fibră",
+    "formula": "",
+    "codParinte": 35,
+    "semn": "+"
+  },
+  {
+    "cod": 37,
+    "descriere": "Cânepă pentru fibră",
+    "formula": "",
+    "codParinte": 35,
+    "semn": "+"
+  },
+  {
+    "cod": 38,
+    "descriere": "Plante oleaginoase - total (exclusiv sămânța)",
+    "formula": "(39+...+47)",
+    "codParinte": 177,
+    "semn": "+"
+  },
+  {
+    "cod": 39,
+    "descriere": "Floarea soarelui",
+    "formula": "",
+    "codParinte": 38,
+    "semn": "+"
+  },
+  {
+    "cod": 40,
+    "descriere": "Rapiță pentru ulei",
+    "formula": "",
+    "codParinte": 38,
+    "semn": "+"
+  },
+  {
+    "cod": 41,
+    "descriere": "Soia boabe",
+    "formula": "",
+    "codParinte": 38,
+    "semn": "+"
+  },
+  {
+    "cod": 42,
+    "descriere": "Muștar",
+    "formula": "",
+    "codParinte": 38,
+    "semn": "+"
+  },
+  {
+    "cod": 43,
+    "descriere": "In pentru ulei",
+    "formula": "",
+    "codParinte": 38,
+    "semn": "+"
+  },
+  {
+    "cod": 44,
+    "descriere": "Mac",
+    "formula": "",
+    "codParinte": 38,
+    "semn": "+"
+  },
+  {
+    "cod": 45,
+    "descriere": "Ricin",
+    "formula": "",
+    "codParinte": 38,
+    "semn": "+"
+  },
+  {
+    "cod": 46,
+    "descriere": "Șofrănel",
+    "formula": "",
+    "codParinte": 38,
+    "semn": "+"
+  },
+  {
+    "cod": 47,
+    "descriere": "Alte plante oleaginoase",
+    "formula": "",
+    "codParinte": 38,
+    "semn": "+"
+  },
+  {
+    "cod": 48,
+    "descriere": "Plante pentru alte industrializări - total (exclusiv sămânța)",
+    "formula": "(49+...+53)",
+    "codParinte": 177,
+    "semn": "+"
+  },
+  {
+    "cod": 49,
+    "descriere": "Tutun",
+    "formula": "",
+    "codParinte": 48,
+    "semn": "+"
+  },
+  {
+    "cod": 50,
+    "descriere": "Sorg pentru mături",
+    "formula": "",
+    "codParinte": 48,
+    "semn": "+"
+  },
+  {
+    "cod": 51,
+    "descriere": "Arahide",
+    "formula": "",
+    "codParinte": 48,
+    "semn": "+"
+  },
+  {
+    "cod": 52,
+    "descriere": "Cicoare",
+    "formula": "",
+    "codParinte": 48,
+    "semn": "+"
+  },
+  {
+    "cod": 53,
+    "descriere": "Alte plante pentru alte industrializări",
+    "formula": "",
+    "codParinte": 48,
+    "semn": "+"
+  },
+  {
+    "cod": 54,
+    "descriere": "Plante medicinale, aromatice și condimente - total (exclusiv sămânța)",
+    "formula": "(55+...+61)",
+    "codParinte": 177,
+    "semn": "+"
+  },
+  {
+    "cod": 55,
+    "descriere": "Coriandru",
+    "formula": "",
+    "codParinte": 54,
+    "semn": "+"
+  },
+  {
+    "cod": 56,
+    "descriere": "Chimion",
+    "formula": "",
+    "codParinte": 54,
+    "semn": "+"
+  },
+  {
+    "cod": 57,
+    "descriere": "Fenicul",
+    "formula": "",
+    "codParinte": 54,
+    "semn": "+"
+  },
+  {
+    "cod": 58,
+    "descriere": "Levănțică",
+    "formula": "",
+    "codParinte": 54,
+    "semn": "+"
+  },
+  {
+    "cod": 59,
+    "descriere": "Mentă",
+    "formula": "",
+    "codParinte": 54,
+    "semn": "+"
+  },
+  {
+    "cod": 60,
+    "descriere": "Anason",
+    "formula": "",
+    "codParinte": 54,
+    "semn": "+"
+  },
+  {
+    "cod": 61,
+    "descriere": "Alte plante medicinale, aromatice și condimente",
+    "formula": "",
+    "codParinte": 54,
+    "semn": "+"
+  },
+  {
+    "cod": 62,
+    "descriere": "Legume în câmp - total (exclusiv sămânța)",
+    "formula": "(63+...+73+75+...+92)",
+    "codParinte": 177,
+    "semn": "+"
+  },
+  {
+    "cod": 63,
+    "descriere": "Conopidă și brocoli",
+    "formula": "",
+    "codParinte": 62,
+    "semn": "+"
+  },
+  {
+    "cod": 64,
+    "descriere": "Varză albă",
+    "formula": "",
+    "codParinte": 62,
+    "semn": "+"
+  },
+  {
+    "cod": 65,
+    "descriere": "Gulii și gulioare",
+    "formula": "",
+    "codParinte": 62,
+    "semn": "+"
+  },
+  {
+    "cod": 66,
+    "descriere": "Alte vărzoase (varză roșie, varză de Bruxelles, etc.)",
+    "formula": "",
+    "codParinte": 62,
+    "semn": "+"
+  },
+  {
+    "cod": 67,
+    "descriere": "Țelină frunze",
+    "formula": "",
+    "codParinte": 62,
+    "semn": "+"
+  },
+  {
+    "cod": 68,
+    "descriere": "Praz",
+    "formula": "",
+    "codParinte": 62,
+    "semn": "+"
+  },
+  {
+    "cod": 69,
+    "descriere": "Salată",
+    "formula": "",
+    "codParinte": 62,
+    "semn": "+"
+  },
+  {
+    "cod": 70,
+    "descriere": "Spanac",
+    "formula": "",
+    "codParinte": 62,
+    "semn": "+"
+  },
+  {
+    "cod": 71,
+    "descriere": "Alte legume cultivate pentru frunze",
+    "formula": "",
+    "codParinte": 62,
+    "semn": "+"
+  },
+  {
+    "cod": 72,
+    "descriere": "Tomate total",
+    "formula": "",
+    "codParinte": 62,
+    "semn": "+"
+  },
+  {
+    "cod": 73,
+    "descriere": "Castraveți total",
+    "formula": "",
+    "codParinte": 62,
+    "semn": "+"
+  },
+  {
+    "cod": 74,
+    "descriere": "din care: cornișon",
+    "formula": "",
+    "codParinte": 0,
+    "semn": ""
+  },
+  {
+    "cod": 75,
+    "descriere": "Ardei total",
+    "formula": "",
+    "codParinte": 62,
+    "semn": "+"
+  },
+  {
+    "cod": 76,
+    "descriere": "Vinete",
+    "formula": "",
+    "codParinte": 62,
+    "semn": "+"
+  },
+  {
+    "cod": 77,
+    "descriere": "Dovleci",
+    "formula": "",
+    "codParinte": 62,
+    "semn": "+"
+  },
+  {
+    "cod": 78,
+    "descriere": "Dovlecei",
+    "formula": "",
+    "codParinte": 62,
+    "semn": "+"
+  },
+  {
+    "cod": 79,
+    "descriere": "Alte legume cultivate pentru fruct",
+    "formula": "",
+    "codParinte": 62,
+    "semn": "+"
+  },
+  {
+    "cod": 80,
+    "descriere": "Morcovi",
+    "formula": "",
+    "codParinte": 62,
+    "semn": "+"
+  },
+  {
+    "cod": 81,
+    "descriere": "Usturoi",
+    "formula": "",
+    "codParinte": 62,
+    "semn": "+"
+  },
+  {
+    "cod": 82,
+    "descriere": "Ceapă",
+    "formula": "",
+    "codParinte": 62,
+    "semn": "+"
+  },
+  {
+    "cod": 83,
+    "descriere": "Sfeclă roșie",
+    "formula": "",
+    "codParinte": 62,
+    "semn": "+"
+  },
+  {
+    "cod": 84,
+    "descriere": "Țelină (rădăcină)",
+    "formula": "",
+    "codParinte": 62,
+    "semn": "+"
+  },
+  {
+    "cod": 85,
+    "descriere": "Alte legume rădăcinoase (albitură, hrean, ridichi de lună, ridichi negre, etc.)",
+    "formula": "",
+    "codParinte": 62,
+    "semn": "+"
+  },
+  {
+    "cod": 86,
+    "descriere": "Mazăre păstăi",
+    "formula": "",
+    "codParinte": 62,
+    "semn": "+"
+  },
+  {
+    "cod": 87,
+    "descriere": "Fasole păstăi",
+    "formula": "",
+    "codParinte": 62,
+    "semn": "+"
+  },
+  {
+    "cod": 88,
+    "descriere": "Alte legume păstăi",
+    "formula": "",
+    "codParinte": 62,
+    "semn": "+"
+  },
+  {
+    "cod": 89,
+    "descriere": "Porumb zaharat",
+    "formula": "",
+    "codParinte": 62,
+    "semn": "+"
+  },
+  {
+    "cod": 90,
+    "descriere": "Ciuperci cultivate",
+    "formula": "",
+    "codParinte": 62,
+    "semn": "+"
+  },
+  {
+    "cod": 91,
+    "descriere": "Pepeni verzi",
+    "formula": "",
+    "codParinte": 62,
+    "semn": "+"
+  },
+  {
+    "cod": 92,
+    "descriere": "Pepeni galbeni",
+    "formula": "",
+    "codParinte": 62,
+    "semn": "+"
+  },
+  {
+    "cod": 93,
+    "descriere": "Plante de nutreț - total (exclusiv sămânța)",
+    "formula": "(94+...98+174)",
+    "codParinte": 177,
+    "semn": "+"
+  },
+  {
+    "cod": 94,
+    "descriere": "Porumb verde furajer",
+    "formula": "",
+    "codParinte": 93,
+    "semn": "+"
+  },
+  {
+    "cod": 95,
+    "descriere": "Alte plante anuale pentru fân și masă verde",
+    "formula": "",
+    "codParinte": 93,
+    "semn": "+"
+  },
+  {
+    "cod": 96,
+    "descriere": "Trifoi și amestec de plante furajere",
+    "formula": "",
+    "codParinte": 93,
+    "semn": "+"
+  },
+  {
+    "cod": 97,
+    "descriere": "Lucernă",
+    "formula": "",
+    "codParinte": 93,
+    "semn": "+"
+  },
+  {
+    "cod": 98,
+    "descriere": "Alte plante furajere perene",
+    "formula": "",
+    "codParinte": 93,
+    "semn": "+"
+  },
+  {
+    "cod": 99,
+    "descriere": "Culturi energetice - total",
+    "formula": "(100+...+104)",
+    "codParinte": 177,
+    "semn": "+"
+  },
+  {
+    "cod": 100,
+    "descriere": "Salcie energetică",
+    "formula": "",
+    "codParinte": 99,
+    "semn": "+"
+  },
+  {
+    "cod": 101,
+    "descriere": "Plop energetic",
+    "formula": "",
+    "codParinte": 99,
+    "semn": "+"
+  },
+  {
+    "cod": 102,
+    "descriere": "Miscanthus giganteus (iarba elefantului)",
+    "formula": "",
+    "codParinte": 99,
+    "semn": "+"
+  },
+  {
+    "cod": 103,
+    "descriere": "Cynara cardunculus (anghinare)",
+    "formula": "",
+    "codParinte": 99,
+    "semn": "+"
+  },
+  {
+    "cod": 104,
+    "descriere": "Alte culturi energetice",
+    "formula": "",
+    "codParinte": 99,
+    "semn": "+"
+  },
+  {
+    "cod": 105,
+    "descriere": "Plante pentru producerea de semințe și seminceri, loturi semincere pentru comercializare - total",
+    "formula": "(106+123+127+131+132+135+142+145+150+165)",
+    "codParinte": 177,
+    "semn": "+"
+  },
+  {
+    "cod": 106,
+    "descriere": "a) Cereale pentru sămânță - total",
+    "formula": "(107+...+122)",
+    "codParinte": 105,
+    "semn": "+"
+  },
+  {
+    "cod": 107,
+    "descriere": "Grâu comun de toamnă",
+    "formula": "",
+    "codParinte": 106,
+    "semn": "+"
+  },
+  {
+    "cod": 108,
+    "descriere": "Grâu comun de primăvară",
+    "formula": "",
+    "codParinte": 106,
+    "semn": "+"
+  },
+  {
+    "cod": 109,
+    "descriere": "Grâu dur de toamnă",
+    "formula": "",
+    "codParinte": 106,
+    "semn": "+"
+  },
+  {
+    "cod": 110,
+    "descriere": "Grâu dur de primăvară",
+    "formula": "",
+    "codParinte": 106,
+    "semn": "+"
+  },
+  {
+    "cod": 111,
+    "descriere": "Secară de toamnă",
+    "formula": "",
+    "codParinte": 106,
+    "semn": "+"
+  },
+  {
+    "cod": 112,
+    "descriere": "Secară de primăvară",
+    "formula": "",
+    "codParinte": 106,
+    "semn": "+"
+  },
+  {
+    "cod": 113,
+    "descriere": "Orz",
+    "formula": "",
+    "codParinte": 106,
+    "semn": "+"
+  },
+  {
+    "cod": 114,
+    "descriere": "Orzoaică de toamnă",
+    "formula": "",
+    "codParinte": 106,
+    "semn": "+"
+  },
+  {
+    "cod": 115,
+    "descriere": "Orzoaică de primăvară",
+    "formula": "",
+    "codParinte": 106,
+    "semn": "+"
+  },
+  {
+    "cod": 116,
+    "descriere": "Ovăz",
+    "formula": "",
+    "codParinte": 106,
+    "semn": "+"
+  },
+  {
+    "cod": 117,
+    "descriere": "Porumb boabe",
+    "formula": "",
+    "codParinte": 106,
+    "semn": "+"
+  },
+  {
+    "cod": 118,
+    "descriere": "Sorg pentru boabe",
+    "formula": "",
+    "codParinte": 106,
+    "semn": "+"
+  },
+  {
+    "cod": 119,
+    "descriere": "Triticale de toamnă",
+    "formula": "",
+    "codParinte": 106,
+    "semn": "+"
+  },
+  {
+    "cod": 120,
+    "descriere": "Triticale de primăvară",
+    "formula": "",
+    "codParinte": 106,
+    "semn": "+"
+  },
+  {
+    "cod": 121,
+    "descriere": "Orez",
+    "formula": "",
+    "codParinte": 106,
+    "semn": "+"
+  },
+  {
+    "cod": 122,
+    "descriere": "Alte cereale pentru sămânță (mei, hrișcă, etc.)",
+    "formula": "",
+    "codParinte": 106,
+    "semn": "+"
+  },
+  {
+    "cod": 123,
+    "descriere": "b) Leguminoase boabe pentru sămânță - total",
+    "formula": "(124+125+126)",
+    "codParinte": 105,
+    "semn": "+"
+  },
+  {
+    "cod": 124,
+    "descriere": "Mazăre boabe",
+    "formula": "",
+    "codParinte": 123,
+    "semn": "+"
+  },
+  {
+    "cod": 125,
+    "descriere": "Fasole boabe",
+    "formula": "",
+    "codParinte": 123,
+    "semn": "+"
+  },
+  {
+    "cod": 126,
+    "descriere": "Alte leguminoase boabe pentru sămânță (linte, bob, lupin, etc.) 126",
+    "formula": "",
+    "codParinte": 123,
+    "semn": "+"
+  },
+  {
+    "cod": 127,
+    "descriere": "c) Rădăcinoase pentru sămânță - total",
+    "formula": "(128+129+130)",
+    "codParinte": 105,
+    "semn": "+"
+  },
+  {
+    "cod": 128,
+    "descriere": "Sfeclă de zahăr",
+    "formula": "",
+    "codParinte": 127,
+    "semn": "+"
+  },
+  {
+    "cod": 129,
+    "descriere": "Sfeclă furajeră",
+    "formula": "",
+    "codParinte": 127,
+    "semn": "+"
+  },
+  {
+    "cod": 130,
+    "descriere": "Alte rădăcinoase furajere pentru sămânță",
+    "formula": "",
+    "codParinte": 127,
+    "semn": "+"
+  },
+  {
+    "cod": 131,
+    "descriere": "d) Cartofi pentru sămânță",
+    "formula": "",
+    "codParinte": 105,
+    "semn": "+"
+  },
+  {
+    "cod": 132,
+    "descriere": "e) Plante textile pentru sămânță - total",
+    "formula": "(133+134)",
+    "codParinte": 105,
+    "semn": "+"
+  },
+  {
+    "cod": 133,
+    "descriere": "In pentru fibră",
+    "formula": "",
+    "codParinte": 132,
+    "semn": "+"
+  },
+  {
+    "cod": 134,
+    "descriere": "Cânepă pentru fibră",
+    "formula": "",
+    "codParinte": 132,
+    "semn": "+"
+  },
+  {
+    "cod": 135,
+    "descriere": "f) Plante oleaginoase pentru sămânță - total",
+    "formula": "(136+...+141)",
+    "codParinte": 105,
+    "semn": "+"
+  },
+  {
+    "cod": 136,
+    "descriere": "Floarea soarelui",
+    "formula": "",
+    "codParinte": 135,
+    "semn": "+"
+  },
+  {
+    "cod": 137,
+    "descriere": "Rapiță pentru ulei",
+    "formula": "",
+    "codParinte": 135,
+    "semn": "+"
+  },
+  {
+    "cod": 138,
+    "descriere": "Soia boabe",
+    "formula": "",
+    "codParinte": 135,
+    "semn": "+"
+  },
+  {
+    "cod": 139,
+    "descriere": "Muștar",
+    "formula": "",
+    "codParinte": 135,
+    "semn": "+"
+  },
+  {
+    "cod": 140,
+    "descriere": "In pentru ulei",
+    "formula": "",
+    "codParinte": 135,
+    "semn": "+"
+  },
+  {
+    "cod": 141,
+    "descriere": "Alte plante oleaginoase pentru sămânță",
+    "formula": "",
+    "codParinte": 135,
+    "semn": "+"
+  },
+  {
+    "cod": 142,
+    "descriere": "g) Plante pentru alte industrializări pentru sămânță - total",
+    "formula": "(143+144)",
+    "codParinte": 105,
+    "semn": "+"
+  },
+  {
+    "cod": 143,
+    "descriere": "Tutun",
+    "formula": "",
+    "codParinte": 142,
+    "semn": "+"
+  },
+  {
+    "cod": 144,
+    "descriere": "Sorg pentru mături",
+    "formula": "",
+    "codParinte": 142,
+    "semn": "+"
+  },
+  {
+    "cod": 145,
+    "descriere": "h) Plante medicinale, aromatice și condimente pentru sămânță - total",
+    "formula": "(146+147+148+149)",
+    "codParinte": 105,
+    "semn": "+"
+  },
+  {
+    "cod": 146,
+    "descriere": "Coriandru",
+    "formula": "",
+    "codParinte": 145,
+    "semn": "+"
+  },
+  {
+    "cod": 147,
+    "descriere": "Chimion",
+    "formula": "",
+    "codParinte": 145,
+    "semn": "+"
+  },
+  {
+    "cod": 148,
+    "descriere": "Fenicul",
+    "formula": "",
+    "codParinte": 145,
+    "semn": "+"
+  },
+  {
+    "cod": 149,
+    "descriere": "Alte plante medicinale, aromatice și condimente pentru sămânță",
+    "formula": "",
+    "codParinte": 145,
+    "semn": "+"
+  },
+  {
+    "cod": 150,
+    "descriere": "i) Culturi horticole pentru sămânță - total",
+    "formula": "(151+...+164)",
+    "codParinte": 105,
+    "semn": "+"
+  },
+  {
+    "cod": 151,
+    "descriere": "Tomate",
+    "formula": "",
+    "codParinte": 150,
+    "semn": "+"
+  },
+  {
+    "cod": 152,
+    "descriere": "Ceapă sămânță",
+    "formula": "",
+    "codParinte": 150,
+    "semn": "+"
+  },
+  {
+    "cod": 153,
+    "descriere": "Arpagic",
+    "formula": "",
+    "codParinte": 150,
+    "semn": "+"
+  },
+  {
+    "cod": 154,
+    "descriere": "Usturoi",
+    "formula": "",
+    "codParinte": 150,
+    "semn": "+"
+  },
+  {
+    "cod": 155,
+    "descriere": "Varză",
+    "formula": "",
+    "codParinte": 150,
+    "semn": "+"
+  },
+  {
+    "cod": 156,
+    "descriere": "Ardei",
+    "formula": "",
+    "codParinte": 150,
+    "semn": "+"
+  },
+  {
+    "cod": 157,
+    "descriere": "Castraveți",
+    "formula": "",
+    "codParinte": 150,
+    "semn": "+"
+  },
+  {
+    "cod": 158,
+    "descriere": "Rădăcinoase",
+    "formula": "",
+    "codParinte": 150,
+    "semn": "+"
+  },
+  {
+    "cod": 159,
+    "descriere": "Mazăre păstăi",
+    "formula": "",
+    "codParinte": 150,
+    "semn": "+"
+  },
+  {
+    "cod": 160,
+    "descriere": "Fasole păstăi",
+    "formula": "",
+    "codParinte": 150,
+    "semn": "+"
+  },
+  {
+    "cod": 161,
+    "descriere": "Pepeni verzi",
+    "formula": "",
+    "codParinte": 150,
+    "semn": "+"
+  },
+  {
+    "cod": 162,
+    "descriere": "Pepeni galbeni",
+    "formula": "",
+    "codParinte": 150,
+    "semn": "+"
+  },
+  {
+    "cod": 163,
+    "descriere": "Alte semințe horticole",
+    "formula": "",
+    "codParinte": 150,
+    "semn": "+"
+  },
+  {
+    "cod": 164,
+    "descriere": "Seminceri legumicoli (plante mamă)",
+    "formula": "",
+    "codParinte": 150,
+    "semn": "+"
+  },
+  {
+    "cod": 165,
+    "descriere": "j) Plante de nutreț pentru sămânță - total",
+    "formula": "(166+167+168)",
+    "codParinte": 105,
+    "semn": "+"
+  },
+  {
+    "cod": 166,
+    "descriere": "Leguminoase perene",
+    "formula": "",
+    "codParinte": 165,
+    "semn": "+"
+  },
+  {
+    "cod": 167,
+    "descriere": "Graminee perene",
+    "formula": "",
+    "codParinte": 165,
+    "semn": "+"
+  },
+  {
+    "cod": 168,
+    "descriere": "Anuale și bianuale",
+    "formula": "",
+    "codParinte": 165,
+    "semn": "+"
+  },
+  {
+    "cod": 169,
+    "descriere": "Căpșunerii",
+    "formula": "",
+    "codParinte": 177,
+    "semn": "+"
+  },
+  {
+    "cod": 170,
+    "descriere": "Flori, plante ornamentale și dendrologice în câmp",
+    "formula": "",
+    "codParinte": 177,
+    "semn": "+"
+  },
+  {
+    "cod": 171,
+    "descriere": "Răsadnițe",
+    "formula": "",
+    "codParinte": 177,
+    "semn": "+"
+  },
+  {
+    "cod": 172,
+    "descriere": "Suprafața construită a serelor",
+    "formula": "",
+    "codParinte": 177,
+    "semn": "+"
+  },
+  {
+    "cod": 173,
+    "descriere": "Suprafața construită a solariilor",
+    "formula": "",
+    "codParinte": 177,
+    "semn": "+"
+  },
+  {
+    "cod": 174,
+    "descriere": "Pajiști temporare artificiale (însămânțare pe teren arabil pentru mai puțin de 5 ani)",
+    "formula": "",
+    "codParinte": 92,
+    "semn": "+"
+  },
+  {
+    "cod": 175,
+    "descriere": "Câmpuri experimentale",
+    "formula": "",
+    "codParinte": 177,
+    "semn": "+"
+  },
+  {
+    "cod": 176,
+    "descriere": "Alte culturi în teren arabil",
+    "formula": "",
+    "codParinte": 177,
+    "semn": "+"
+  },
+  {
+    "cod": 177,
+    "descriere": "Total suprafață arabilă cultivată",
+    "formula": "",
+    "codParinte": 181,
+    "semn": "+"
+  },
+  {
+    "cod": 178,
+    "descriere": "Teren necultivat d.c:",
+    "formula": "",
+    "codParinte": 181,
+    "semn": "+"
+  },
+  {
+    "cod": 179,
+    "descriere": "- teren necultivat în sere și solarii",
+    "formula": "",
+    "codParinte": 181,
+    "semn": "+"
+  },
+  {
+    "cod": 180,
+    "descriere": "Ogoare",
+    "formula": "",
+    "codParinte": 181,
+    "semn": "+"
+  },
+  {
+    "cod": 181,
+    "descriere": "Total teren arabil",
+    "formula": "(177+178+180)",
+    "codParinte": 0,
+    "semn": ""
+  }
+]

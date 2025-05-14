@@ -1,0 +1,191 @@
+[
+  {
+    "cod": 1,
+    "descriere": "Legume în grădini familiale - total (exclusiv sămânță)",
+    "formula": "(02+03+...+06+08+...+23)",
+    "codParinte": 0,
+    "semn": ""
+  },
+  {
+    "cod": 2,
+    "descriere": "Varză albă",
+    "formula": "",
+    "codParinte": 1,
+    "semn": "+"
+  },
+  {
+    "cod": 3,
+    "descriere": "Salată verde",
+    "formula": "",
+    "codParinte": 1,
+    "semn": "+"
+  },
+  {
+    "cod": 4,
+    "descriere": "Spanac",
+    "formula": "",
+    "codParinte": 1,
+    "semn": "+"
+  },
+  {
+    "cod": 5,
+    "descriere": "Tomate",
+    "formula": "",
+    "codParinte": 1,
+    "semn": "+"
+  },
+  {
+    "cod": 6,
+    "descriere": "Castraveți",
+    "formula": "",
+    "codParinte": 1,
+    "semn": "+"
+  },
+  {
+    "cod": 7,
+    "descriere": "din care: cornișon",
+    "formula": "",
+    "codParinte": 1,
+    "semn": "+"
+  },
+  {
+    "cod": 8,
+    "descriere": "Ardei",
+    "formula": "",
+    "codParinte": 1,
+    "semn": "+"
+  },
+  {
+    "cod": 9,
+    "descriere": "Vinete",
+    "formula": "",
+    "codParinte": 1,
+    "semn": "+"
+  },
+  {
+    "cod": 10,
+    "descriere": "Dovleci",
+    "formula": "",
+    "codParinte": 1,
+    "semn": "+"
+  },
+  {
+    "cod": 11,
+    "descriere": "Dovlecei",
+    "formula": "",
+    "codParinte": 1,
+    "semn": "+"
+  },
+  {
+    "cod": 12,
+    "descriere": "Morcovi",
+    "formula": "",
+    "codParinte": 1,
+    "semn": "+"
+  },
+  {
+    "cod": 13,
+    "descriere": "Țelină (rădăcină)",
+    "formula": "",
+    "codParinte": 1,
+    "semn": "+"
+  },
+  {
+    "cod": 14,
+    "descriere": "Usturoi",
+    "formula": "",
+    "codParinte": 1,
+    "semn": "+"
+  },
+  {
+    "cod": 15,
+    "descriere": "Ceapă",
+    "formula": "",
+    "codParinte": 1,
+    "semn": "+"
+  },
+  {
+    "cod": 16,
+    "descriere": "Sfeclă roșie",
+    "formula": "",
+    "codParinte": 1,
+    "semn": "+"
+  },
+  {
+    "cod": 17,
+    "descriere": "Ridichi de lună",
+    "formula": "",
+    "codParinte": 1,
+    "semn": "+"
+  },
+  {
+    "cod": 18,
+    "descriere": "Alte legume rădăcinoase (hrean, ridichi negre, pătrunjel, păstârnac, etc.)",
+    "formula": "",
+    "codParinte": 1,
+    "semn": "+"
+  },
+  {
+    "cod": 19,
+    "descriere": "Legume pentru frunze (pătrunjel, mărar, leuștean etc.)",
+    "formula": "",
+    "codParinte": 1,
+    "semn": "+"
+  },
+  {
+    "cod": 20,
+    "descriere": "Mazăre păstăi",
+    "formula": "",
+    "codParinte": 1,
+    "semn": "+"
+  },
+  {
+    "cod": 21,
+    "descriere": "Fasole păstăi",
+    "formula": "",
+    "codParinte": 1,
+    "semn": "+"
+  },
+  {
+    "cod": 22,
+    "descriere": "Porumb zaharat",
+    "formula": "",
+    "codParinte": 1,
+    "semn": "+"
+  },
+  {
+    "cod": 23,
+    "descriere": "Alte legume",
+    "formula": "",
+    "codParinte": 1,
+    "semn": "+"
+  },
+  {
+    "cod": 24,
+    "descriere": "Cartofi total",
+    "formula": "(25+26+27)",
+    "codParinte": 0,
+    "semn": ""
+  },
+  {
+    "cod": 25,
+    "descriere": "  a) - timpurii și semi-timpurii",
+    "formula": "",
+    "codParinte": 24,
+    "semn": "+"
+  },
+  {
+    "cod": 26,
+    "descriere": "  b) - de vară",
+    "formula": "",
+    "codParinte": 24,
+    "semn": "+"
+  },
+  {
+    "cod": 27,
+    "descriere": "  c) - de toamnă",
+    "formula": "",
+    "codParinte": 24,
+    "semn": "+"
+  }
+]
