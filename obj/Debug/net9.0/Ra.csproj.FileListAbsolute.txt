@@ -20,6 +20,7 @@ C:\Users\catal\source\repos\Ra\obj\Debug\net9.0\Ra.GeneratedMSBuildEditorConfig.
 C:\Users\catal\source\repos\Ra\obj\Debug\net9.0\Ra.AssemblyInfoInputs.cache
 C:\Users\catal\source\repos\Ra\obj\Debug\net9.0\Ra.AssemblyInfo.cs
 C:\Users\catal\source\repos\Ra\obj\Debug\net9.0\Ra.csproj.CoreCompileInputs.cache
+C:\Users\catal\source\repos\Ra\obj\Debug\net9.0\Ra.sourcelink.json
 C:\Users\catal\source\repos\Ra\obj\Debug\net9.0\Ra.csproj.Up2Date
 C:\Users\catal\source\repos\Ra\obj\Debug\net9.0\Ra.dll
 C:\Users\catal\source\repos\Ra\obj\Debug\net9.0\refint\Ra.dll
